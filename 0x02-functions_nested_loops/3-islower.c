@@ -6,15 +6,7 @@
  * Return: Always 0.
  */
 
-int _islower(int c) 
+int _islower(int c)
 {
-	char c;
-
-	  if ( c >= 'a' && c <= 'z')
-     {
-         _putchar(c);
-     }
-     
-     
-           _putchar('\n');
+	return (c >= 'a' && c <= 'z');
 }
