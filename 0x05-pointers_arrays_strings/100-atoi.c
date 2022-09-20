@@ -1,3 +1,4 @@
+
 #include "main.h"
 
 /**
@@ -8,11 +9,11 @@
 
 int _atoi(char *s)
 {
-	int m = 0;
+	int i = 0;
 
-	if (*s == m)
+	if (*s == i)
 	{
-	_putchar(m);
+	_putchar(i);
 	}
 	return (0);
 }
