@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 			cents -= 2;
 		else if (cents >= 1)
 			cents -= 1;
-		ncoins += 1;
+		count += 1;
 	}
 	printf("%d\n", count);
 	return (0);
