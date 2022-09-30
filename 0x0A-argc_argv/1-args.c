@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include <Stdio.h>
 /**
  * main - prints the number of arguemenys passed into it
