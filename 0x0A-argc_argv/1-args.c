@@ -1,8 +1,8 @@
 #include <Stdio.h>
 /**
  * main - prints the number of arguemenys passed into it
- * @argc: count the number of arguement in the command line
- * @argv: gives the array of the arguement
+ * @argc: arguement counter
+ * @argv: arguement vector 
  * Return: 0 - success
 */
 
