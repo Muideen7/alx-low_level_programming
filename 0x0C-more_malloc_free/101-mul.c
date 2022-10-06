@@ -1,14 +1,15 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
+#include <conio.h>
 
 /**
  * _is_zero - determines if any number is zero
  * @argv: argument vector.
  *
  * Return: no return.
- */
+*/
 void _is_zero(char *argv[])
 {
 	int i, isn1 = 1, isn2 = 1;
