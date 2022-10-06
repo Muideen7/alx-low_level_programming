@@ -1,3 +1,4 @@
+# arguement counter and arguement vector in C (argc and argv)
 General
 How to use arguments passed to your program
 What are two prototypes of main that you know of, and in which case do you use one or the other
