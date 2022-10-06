@@ -1,4 +1,4 @@
-C projects on C - Pointers, arrays and strings
+# C projects on C - Pointers, arrays and strings
 General
 What are pointers and how to use them
 What are arrays and how to use them
