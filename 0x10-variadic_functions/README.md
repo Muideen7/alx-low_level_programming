@@ -1,4 +1,4 @@
-#Variadic_Functions in C porgramming
+# Variadic_Functions in C porgramming
 Resources
 Read or watch:
 
