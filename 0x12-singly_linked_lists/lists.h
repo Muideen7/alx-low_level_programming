@@ -1,25 +1,20 @@
 #ifndef LISTS_H
 #define LISTS_H
-
 /**
  * File: lists.h
- * Auth: Olayeye Muideen
+ * Auth: Olayeye Ayomide
  * Desc: Header file containing prototypes and definitions for all functions
  *
 */
-
-#include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 /**
  * struct list_s - singly linked list
- * @str: string - (malloc'ed string)
+ * @str: string - malloc
  * @len: length of the string
  * @next: points to the next node
  *
- * Description: singly linked list node structure
- *
+ * Desc: singly linked list node structure
 */
 typedef struct list_s
 {
