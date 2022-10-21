@@ -1,16 +1,21 @@
-#ifndef _LISTS_H_
-#define _LISTS_H_
+#ifndef LISTS_H
+#define LISTS_H
+/**
+ * File: lists.h
+ * Auth: Olayeye Muideen
+ * Desc: Header file containing prototypes and definitions for all functions
+ *
+*/
 #include <stdlib.h>
 
 /**
  * struct list_s - singly linked list
- * @str: string - (malloc'ed string)
+ * @str: string - malloc
  * @len: length of the string
  * @next: points to the next node
  *
- * Description: singly linked list node structure
- * for Holberton project
- */
+ * Desc: singly linked list node structure
+*/
 typedef struct list_s
 {
 	char *str;
@@ -20,8 +25,8 @@ typedef struct list_s
 
 size_t print_list(const list_t *h);
 size_t list_len(const list_t *h);
-size_t list_len_recursion(const list_t *h);
 list_t *add_node(list_t **head, const char *str);
 list_t *add_node_end(list_t **head, const char *str);
 void free_list(list_t *head);
-#endif /* _LISTS_H_ */
+
+#endif
