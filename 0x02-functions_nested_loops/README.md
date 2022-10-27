@@ -1,12 +1,16 @@
 # functions and nested loops in C programming
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+Project done during **Full Stack Software Engineering studies** at **alx_africa**. It aims to learn about singly linked lists in **C language**.
 
-General
-What are nested loops and how to use them
-What is a function and how do you use functions
-What is the difference between a declaration and a definition of a function
-What is a prototype
-Scope of variables
-What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
-What are header files and how to to use them with #include
+## Technologies
+* Scripts written in Bash 5.1.16(1)
+* C files are compiled using `gcc (Ubuntu 11.2.0-19ubuntu1) 11.2.0`
+* C files are written according to the C90 standard
+* Tested on Ubuntu 22.04 LTS
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+## Files
+All of the following files are programs written in C:
+
