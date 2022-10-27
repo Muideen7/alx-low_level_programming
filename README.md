@@ -1,5 +1,5 @@
 # Module of Low-level programming and algorithm, carried out during alx software engineering program.
-Project done during **Full Stack Software Engineering studies** at **alx_africa**. It aims to learn about singly linked lists in **C language**.
+Project done during **Full Stack Software Engineering studies** at **alx_africa**. It aims to learn about the basics of `printf`, `malloc`, `calloc`, `realloc`,`argv`, `argc`, `pointer`, `pointer to pointer`, `struct`, `pointer to function`, `debugging`, `singly-lists`, `variadic-function`, `bit-manipulation`,`variables`, `preprocessor`, in  **C language**.
 
 ## Technologies
 * Scripts written in `Bash 5.1.16(1)`
