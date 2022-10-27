@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * binary_to_uint - converts a binary number to an
@@ -6,7 +6,7 @@
  * @b: binary.
  *
  * Return: unsigned int.
- */
+*/
 unsigned int binary_to_uint(const char *b)
 {
 	unsigned int ui;
