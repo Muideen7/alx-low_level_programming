@@ -1,12 +1,16 @@
 # Variadic_Functions in C porgramming
-Resources
-Read or watch:
+Project done during **Full Stack Software Engineering studies** at **alx_africa**. It aims to learn about singly linked lists in **C language**.
 
-stdarg.h
-Variadic Functions
-Const Keyword
-man or help:
+## Technologies
+* Scripts written in Bash 5.1.16(1)
+* C files are compiled using `gcc (Ubuntu 11.2.0-19ubuntu1) 11.2.0`
+* C files are written according to the C90 standard
+* Tested on Ubuntu 22.04 LTS
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-stdarg
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+## Files
+All of the following files are programs written in C:
+
