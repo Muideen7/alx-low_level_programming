@@ -1,20 +1,16 @@
 # if else variables in C programming
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+Project done during **Full Stack Software Engineering studies** at **alx_africa**. It aims to learn about singly linked lists in **C language**.
 
-General
-What are the arithmetic operators and how to use them
-What are the logical operators (sometimes called boolean operators) and how to use them
-What the the relational operators and how to use them
-What values are considered TRUE and FALSE in C
-What are the boolean operators and how to use them
-How to use the if, if ... else statements
-How to use comments
-How to declare variables of types char, int, unsigned int
-How to assign values to variables
-How to print the values of variables of type char, int, unsigned int with printf
-How to use the while loop
-How to use variables with the while loop
-How to print variables using printf
-What is the ASCII character set
-What are the purpose of the gcc flags -m32 and -m64
+## Technologies
+* Scripts written in Bash 5.1.16(1)
+* C files are compiled using `gcc (Ubuntu 11.2.0-19ubuntu1) 11.2.0`
+* C files are written according to the C90 standard
+* Tested on Ubuntu 22.04 LTS
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+## Files
+All of the following files are programs written in C:
+
