@@ -35,4 +35,4 @@ All of the following files are programs written in C:
 * 0x14-`bit_manipulation`
 
 ## Author: 
-`Olayeyey Muideen Ayomide`
+`Olayeye Muideen Ayomide`
