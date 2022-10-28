@@ -6,7 +6,7 @@
  * @n: unsigned long int.
  *
  * Return: no return.
- */
+*/
 void print_binary(unsigned long int n)
 {
 	if (n >> 0)
