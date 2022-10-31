@@ -4,7 +4,7 @@
  * @filename: pointer char
  * @text_content: string to add at the end
  * Return: 1 on success and -1 on failure
- */
+*/
 
 int create_file(const char *filename, char *text_content)
 {
